@@ -1,0 +1,176 @@
+,movie_title,released_date,rating
+0,The Shawshank Redemption,1994,9.3
+1,The Godfather,1972,9.2
+2,The Dark Knight,2008,9.0
+3,The Godfather Part II,1974,9.0
+4,12 Angry Men,1957,9.0
+5,The Lord of the Rings: The Return of the King,2003,9.0
+6,Schindler's List,1993,9.0
+7,Pulp Fiction,1994,8.9
+8,The Lord of the Rings: The Fellowship of the Ring,2001,8.9
+9,"The Good, the Bad and the Ugly",1966,8.8
+10,Forrest Gump,1994,8.8
+11,The Lord of the Rings: The Two Towers,2002,8.8
+12,Fight Club,1999,8.8
+13,Inception,2010,8.8
+14,Star Wars: Episode V - The Empire Strikes Back,1980,8.7
+15,The Matrix,1999,8.7
+16,Goodfellas,1990,8.7
+17,One Flew Over the Cuckoo's Nest,1975,8.7
+18,Interstellar,2014,8.7
+19,Se7en,1995,8.6
+20,It's a Wonderful Life,1946,8.6
+21,Seven Samurai,1954,8.6
+22,The Silence of the Lambs,1991,8.6
+23,Saving Private Ryan,1998,8.6
+24,City of God,2002,8.6
+25,The Green Mile,1999,8.6
+26,Life Is Beautiful,1997,8.6
+27,Terminator 2: Judgment Day,1991,8.6
+28,Star Wars: Episode IV - A New Hope,1977,8.6
+29,Back to the Future,1985,8.5
+30,Spirited Away,2001,8.6
+31,The Pianist,2002,8.5
+32,Gladiator,2000,8.5
+33,Parasite,2019,8.5
+34,Psycho,1960,8.5
+35,The Lion King,1994,8.5
+36,The Departed,2006,8.5
+37,Grave of the Fireflies,1988,8.5
+38,Whiplash,2014,8.5
+39,American History X,1998,8.5
+40,Spider-Man: Across the Spider-Verse,2023,8.5
+41,The Prestige,2006,8.5
+42,Harakiri,1962,8.6
+43,Léon: The Professional,1994,8.5
+44,Casablanca,1942,8.5
+45,The Usual Suspects,1995,8.5
+46,The Intouchables,2011,8.5
+47,Cinema Paradiso,1988,8.5
+48,Modern Times,1936,8.5
+49,Alien,1979,8.5
+50,Rear Window,1954,8.5
+51,Once Upon a Time in the West,1968,8.5
+52,Dune: Part Two,2024,8.5
+53,Django Unchained,2012,8.5
+54,City Lights,1931,8.5
+55,Apocalypse Now,1979,8.4
+56,Memento,2000,8.4
+57,WALL·E,2008,8.4
+58,Raiders of the Lost Ark,1981,8.4
+59,The Lives of Others,2006,8.4
+60,Avengers: Infinity War,2018,8.4
+61,Sunset Boulevard,1950,8.4
+62,12th Fail,2023,8.8
+63,Spider-Man: Into the Spider-Verse,2018,8.4
+64,Paths of Glory,1957,8.4
+65,Witness for the Prosecution,1957,8.4
+66,The Shining,1980,8.4
+67,The Great Dictator,1940,8.4
+68,Aliens,1986,8.4
+69,Inglourious Basterds,2009,8.4
+70,The Dark Knight Rises,2012,8.4
+71,Coco,2017,8.4
+72,Amadeus,1984,8.4
+73,Toy Story,1995,8.3
+74,Oldboy,2003,8.3
+75,Dr,1964,8.3
+76,Avengers: Endgame,2019,8.4
+77,American Beauty,1999,8.3
+78,Good Will Hunting,1997,8.3
+79,Braveheart,1995,8.3
+80,Das Boot,1981,8.4
+81,Princess Mononoke,1997,8.3
+82,Your Name,2016,8.4
+83,High and Low,1963,8.4
+84,Joker,2019,8.3
+85,3 Idiots,2009,8.4
+86,Once Upon a Time in America,1984,8.3
+87,Singin' in the Rain,1952,8.3
+88,Capernaum,2018,8.4
+89,Come and See,1985,8.3
+90,Requiem for a Dream,2000,8.3
+91,Toy Story 3,2010,8.3
+92,Star Wars: Episode VI - Return of the Jedi,1983,8.3
+93,The Hunt,2012,8.3
+94,Eternal Sunshine of the Spotless Mind,2004,8.3
+95,Ikiru,1952,8.3
+96,2001: A Space Odyssey,1968,8.3
+97,Reservoir Dogs,1992,8.3
+98,The Apartment,1960,8.3
+99,Lawrence of Arabia,1962,8.3
+100,Incendies,2010,8.3
+101,Scarface,1983,8.3
+102,Double Indemnity,1944,8.3
+103,North by Northwest,1959,8.3
+104,Citizen Kane,1941,8.3
+105,Heat,1995,8.3
+106,M,1931,8.3
+107,Full Metal Jacket,1987,8.2
+108,Vertigo,1958,8.3
+109,Up,2009,8.3
+110,Amélie,2001,8.3
+111,Oppenheimer,2023,8.3
+112,A Clockwork Orange,1971,8.2
+113,To Kill a Mockingbird,1962,8.3
+114,A Separation,2011,8.3
+115,The Sting,1973,8.3
+116,Die Hard,1988,8.2
+117,Indiana Jones and the Last Crusade,1989,8.2
+118,Like Stars on Earth,2007,8.3
+119,Metropolis,1927,8.3
+120,Snatch,2000,8.2
+121,1917,2019,8.2
+122,L,1997,8.2
+123,Bicycle Thieves,1948,8.3
+124,Downfall,2004,8.2
+125,Dangal,2016,8.3
+126,Taxi Driver,1976,8.2
+127,Hamilton,2020,8.3
+128,The Wolf of Wall Street,2013,8.2
+129,Batman Begins,2005,8.2
+130,For a Few Dollars More,1965,8.2
+131,Green Book,2018,8.2
+132,Some Like It Hot,1959,8.2
+133,The Truman Show,1998,8.2
+134,Judgment at Nuremberg,1961,8.3
+135,The Kid,1921,8.2
+136,The Father,2020,8.2
+137,Shutter Island,2010,8.2
+138,All About Eve,1950,8.2
+139,There Will Be Blood,2007,8.2
+140,Jurassic Park,1993,8.2
+141,Casino,1995,8.2
+142,The Sixth Sense,1999,8.2
+143,Ran,1985,8.2
+144,Top Gun: Maverick,2022,8.2
+145,No Country for Old Men,2007,8.2
+146,Pan's Labyrinth,2006,8.2
+147,The Thing,1982,8.2
+148,Unforgiven,1992,8.2
+149,A Beautiful Mind,2001,8.2
+150,Kill Bill: Vol,2003,8.2
+151,The Treasure of the Sierra Madre,1948,8.2
+152,Yojimbo,1961,8.2
+153,Prisoners,2013,8.2
+154,Finding Nemo,2003,8.2
+155,The Great Escape,1963,8.2
+156,Monty Python and the Holy Grail,1975,8.2
+157,Howl's Moving Castle,2004,8.2
+158,The Wild Robot,2024,8.2
+159,The Elephant Man,1980,8.2
+160,Dial M for Murder,1954,8.2
+161,Rashomon,1950,8.2
+162,Gone with the Wind,1939,8.2
+163,Chinatown,1974,8.1
+164,The Secret in Their Eyes,2009,8.2
+165,"Lock, Stock and Two Smoking Barrels",1998,8.1
+166,V for Vendetta,2005,8.1
+167,Inside Out,2015,8.1
+168,Klaus,2019,8.2
+169,"Three Billboards Outside Ebbing, Missouri",2017,8.1
+170,Raging Bull,1980,8.1
+171,The Bridge on the River Kwai,1957,8.1
+172,Trainspotting,1996,8.1
+173,Catch Me If You Can,2002,8.1
+174,Fargo,1996,8.1
